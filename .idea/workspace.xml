@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20720853-188a-40c1-8b16-79dedae5ff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/survey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoi-gian-bieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625643303036</updated>
-      <workItem from="1625643305094" duration="6825000" />
+      <workItem from="1625643305094" duration="10535000" />
     </task>
     <servers />
   </component>
