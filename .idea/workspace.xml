@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20720853-188a-40c1-8b16-79dedae5ff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thoi-gian-bieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai6/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai6/cach-nhung-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai6/cach-nhung-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cach-nhung-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mind-md1.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myname.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -31,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bai6" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -38,6 +46,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="diff.base" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\html\bai6" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625643303036</updated>
-      <workItem from="1625643305094" duration="10535000" />
+      <workItem from="1625643305094" duration="11714000" />
+      <workItem from="1625711981723" duration="6244000" />
     </task>
     <servers />
   </component>
