@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>chọn tên trong danh sách</p>
+<select id="mydanhsach" >
+  <option value="ngô">ngô</option>
+  <option value="lúa">lúa</option>
+  <option value="khoai">khoai</option>
+  <option value="sắn">sắn</option>
+  <option value="đậu">đậu</option>
+  <option value="mía">mía</option>
+</select>
+<input type="button" value="Button" onclick="changefunction()">
+<script>
+
+  function changefunction(){
+
+     let selectedValue = document.getElementById("mydanhsach").value;
+      alert(selectedValue);
+  }
+</script>
+</body>
+</html>

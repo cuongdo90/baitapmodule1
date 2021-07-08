@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20720853-188a-40c1-8b16-79dedae5ff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6/cach-nhung-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6/cach-nhung-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cach-nhung-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mind-md1.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myname.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai6/bai-tap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625643303036</updated>
       <workItem from="1625643305094" duration="11714000" />
-      <workItem from="1625711981723" duration="6244000" />
+      <workItem from="1625711981723" duration="13403000" />
     </task>
     <servers />
   </component>
