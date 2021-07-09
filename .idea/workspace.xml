@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20720853-188a-40c1-8b16-79dedae5ff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai6/bai-tap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mycourses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai5/baitap1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,10 @@
       <updated>1625643303036</updated>
       <workItem from="1625643305094" duration="11714000" />
       <workItem from="1625711981723" duration="13403000" />
+      <workItem from="1625734932211" duration="1889000" />
+      <workItem from="1625750782229" duration="1215000" />
+      <workItem from="1625756256680" duration="1154000" />
+      <workItem from="1625813765613" duration="6292000" />
     </task>
     <servers />
   </component>
