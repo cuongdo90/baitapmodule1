@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20720853-188a-40c1-8b16-79dedae5ff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/job.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mycourses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai5/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai5/ajn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai5/on-tap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git&amp;html/cv-cá nhân.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git&amp;html/danh-sach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git&amp;html/mau-cv.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai-tap-ngay-06.07.21" beforeDir="false" afterPath="$PROJECT_DIR$/Bai-tap-ngay-06.07.21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cach-nhung-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mind-md1.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myname.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi-gian-bieu.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +36,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uygZM3a6icD7kuixb6h1mskicu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -40,7 +55,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="diff.base" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -61,11 +76,15 @@
       <workItem from="1625734932211" duration="1889000" />
       <workItem from="1625750782229" duration="1215000" />
       <workItem from="1625756256680" duration="1154000" />
-      <workItem from="1625813765613" duration="6292000" />
+      <workItem from="1625813765613" duration="7608000" />
+      <workItem from="1625875937116" duration="9946000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
